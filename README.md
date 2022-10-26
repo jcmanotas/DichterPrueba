@@ -30,11 +30,11 @@ dependiendo la nota obtenida en cada indicador le asignaremos un peso a cada not
 posteriormente sumara la nota de calidad, a continuación, detallo los pesos:
 
 <p align="left">
-  <img src="https://github.com/jcmanotas/DichterPrueba/img/imagen01.png" title="">
+  <img src="https://github.com/jcmanotas/DichterPrueba/blob/master/img/imagen01.png" title="">
 </p>
 
 <p align="left">
-  <img src="https://github.com/jcmanotas/DichterPrueba/img/imagen02.png" title="">
+  <img src="https://github.com/jcmanotas/DichterPrueba/blob/master/img/imagen02.png" title="">
 </p>
 
 Para el caso de las canceladas si el Entrevistador ya tiene una encuesta cancelada tendrá un
@@ -42,7 +42,7 @@ peso de 0 automáticamente tal como detalla el siguiente cuadro, de lo contrario
 50%:
 
 <p align="left">
-  <img src="https://github.com/jcmanotas/DichterPrueba/img/imagen03.png" title="">
+  <img src="https://github.com/jcmanotas/DichterPrueba/blob/master/img/imagen03.png" title="">
 </p>
 
 Entregables:
